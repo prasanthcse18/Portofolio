@@ -2,3 +2,19 @@
 .portofolioFont{
     font-family: 'Roboto', sans-serif;
 }
+
+.profilePhoto{
+    width:100%;
+}
+
+.timeLineHeight{
+    height:123px;
+    width:5px;
+    background-color: #000000;
+}
+
+.circle{
+    height:15px;
+    width:15px;
+    background-color: #000000;
+}
